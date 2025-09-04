@@ -1,0 +1,20 @@
+//
+// Image //
+//
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+.img-mask-1 {
+  border-top-left-radius: 3em;
+  border-bottom-right-radius: 3em;
+}
+.img-mask-2 {
+  border-top-right-radius: 3em;
+  border-bottom-left-radius: 3em;
+  height: 235px;
+  width: 295px;
+  object-fit: cover;
+  object-position: center;
+}
