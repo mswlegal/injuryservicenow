@@ -1,4 +1,4 @@
-import Favicon from '@/public/images/favicon.png';
+import Favicon from '@/public/images/main/logo.webp';
 
 const defaultMetaData = {
   title: '',
