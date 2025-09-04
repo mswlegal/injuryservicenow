@@ -7,13 +7,7 @@ const nextConfig = {
     includePaths: [path.join(__dirname, 'styles')],
   },
   async redirects() {
-    return [
-      {
-        source: '/',
-        destination: '/index-agency-light',
-        permanent: true,
-      },
-    ];
+    return [];
   },
 };
 
